@@ -1,6 +1,6 @@
 # ToastWordpess
 
-Toastmaster members site - older Wordpress version
+Toastmaster members site - older Wordpress development version
 
 ###The finished Wordpress site looks like
 
