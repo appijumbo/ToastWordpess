@@ -2,7 +2,7 @@
 
 Toastmaster members site - older Wordpress development version
 
-###The finished Wordpress site looks like
+### The finished Wordpress site looks like
 
 ![Wordpress site 1](./finished_site_images/toastyWp1.jpg)
 ![Wordpress site 2](./finished_site_images/toastyWp2.jpg)
